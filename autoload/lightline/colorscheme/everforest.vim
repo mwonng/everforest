@@ -19,7 +19,7 @@ let s:tab_l_bg = s:palette.bg3
 let s:tab_r_fg = s:palette.bg0
 let s:tab_r_bg = s:palette.statusline1
 let s:tab_sel_fg = s:palette.bg0
-let s:tab_sel_bg = s:palette.statusline1
+let s:tab_sel_bg = s:palette.blue
 let s:tab_middle_fg = s:palette.grey1
 let s:tab_middle_bg = s:palette.bg1
 
@@ -40,22 +40,22 @@ let s:normal_middle_fg = s:palette.grey1
 let s:normal_middle_bg = s:palette.bg1
 
 let s:insert_l1_fg = s:palette.bg0
-let s:insert_l1_bg = s:palette.statusline2
+let s:insert_l1_bg = s:palette.statusline3
 let s:insert_l2_fg = s:palette.fg
 let s:insert_l2_bg = s:palette.bg3
 let s:insert_r1_fg = s:palette.bg0
-let s:insert_r1_bg = s:palette.statusline2
+let s:insert_r1_bg = s:palette.statusline3
 let s:insert_r2_fg = s:palette.fg
 let s:insert_r2_bg = s:palette.bg3
 let s:insert_middle_fg = s:palette.fg
 let s:insert_middle_bg = s:palette.bg1
 
 let s:visual_l1_fg = s:palette.bg0
-let s:visual_l1_bg = s:palette.statusline3
+let s:visual_l1_bg = s:palette.statusline2
 let s:visual_l2_fg = s:palette.grey2
 let s:visual_l2_bg = s:palette.bg3
 let s:visual_r1_fg = s:palette.bg0
-let s:visual_r1_bg = s:palette.statusline3
+let s:visual_r1_bg = s:palette.statusline2
 let s:visual_r2_fg = s:palette.grey2
 let s:visual_r2_bg = s:palette.bg3
 let s:visual_middle_fg = s:palette.grey1
