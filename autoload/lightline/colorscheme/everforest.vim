@@ -17,7 +17,7 @@ endif
 let s:tab_l_fg = s:palette.grey2
 let s:tab_l_bg = s:palette.bg3
 let s:tab_r_fg = s:palette.bg0
-let s:tab_r_bg = s:palette.statusline1
+let s:tab_r_bg = s:palette.purple
 let s:tab_sel_fg = s:palette.bg0
 let s:tab_sel_bg = s:palette.blue
 let s:tab_middle_fg = s:palette.grey1
